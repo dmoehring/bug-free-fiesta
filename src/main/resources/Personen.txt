@@ -1,0 +1,1 @@
+Personalnummer	Vorname	Nachname	TAG_DER_GEBURT	Einkommen
